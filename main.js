@@ -1,0 +1,3 @@
+
+
+ScrollReveal().reveal('.scroll');
